@@ -1,5 +1,6 @@
-package com.sparta.miniorder.product.entity;
+package com.sparta.miniorder.order.entity;
 
+import com.sparta.miniorder.product.entity.Product;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;

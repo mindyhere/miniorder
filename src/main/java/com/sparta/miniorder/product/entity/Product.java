@@ -1,5 +1,6 @@
 package com.sparta.miniorder.product.entity;
 
+import com.sparta.miniorder.product.dto.ProductRequest;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;
